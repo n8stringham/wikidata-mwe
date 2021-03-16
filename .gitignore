@@ -9,7 +9,11 @@ __pycache__
 *.aux
 *.blg
 *.out
+*.synctex.gz
 
 # vim
 *.swo
 *.swp
+
+# mac
+.DS_Store
