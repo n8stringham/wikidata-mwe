@@ -1,0 +1,15 @@
+# python
+__pycache__
+
+# latex
+*.pdf
+*.bib
+*.bbl
+*.log
+*.aux
+*.blg
+*.out
+
+# vim
+*.swo
+*.swp
